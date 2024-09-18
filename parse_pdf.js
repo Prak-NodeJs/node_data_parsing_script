@@ -44,6 +44,9 @@ const convertPdfToText = async (pdfPath, password = '') => {
 };
 
 // Call the function with your PDF file
-const inputFilePath = 'sample-protected.pdf'
+const inputFilePath = 'nifty-50-whitepaper-2024_0.pdf'
 const password = 'pass123'
 convertPdfToText(inputFilePath, password);
+
+// https://www.nseindia.com/products/content/gi/FTSE_brochure.pdf
+// https://nsearchives.nseindia.com/web/sites/default/files/inline-files/nifty-50-whitepaper-2024_0.pdf

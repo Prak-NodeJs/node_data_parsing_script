@@ -1,0 +1,1041 @@
+
+
+  Nifty50
+Capturing the pulse
+of the nation
+July 2024
+
+  Nifty50
+Introduction
+India, being a developing economy, has exponential contribute to the economy by generating employment, 
+growth potential, which makes it an attractive increasing production, attracting foreign capital and 
+investment destination globally. One way to participate providing stability and conﬁdence to the ﬁnancial 
+in India’s growth story is through investment in Indian markets of a country. The Nifty 50 includes ﬁfty of the 
+blue-chip companies. largest and most actively traded stocks across various 
+Blue-chip companies are renowned for their stability, sectors listed on the NSE. It serves as a barometer of 
+reliability and long - standing reputation in the ﬁnancial the Indian equity market and is widely used by 
+markets. These ﬁrms are typically industry leaders with investors, analysts, and fund managers to gauge the 
+established track records of proﬁtability. Investing in performance of the country’s blue-chip companies. It 
+blue-chip companies is often a cornerstone of a has played a pivotal role in helping investors assess the 
+diversiﬁed investment portfolio, offering investors a pulse of the Indian Capital Market in the last 28 years. 
+sense of security and steady returns amidst market Although comprising of only 50 stocks, it represents 
+volatility.approximately 57% of the free-float market 
+These companies are characterized by large market capitalization of all stocks listed on the NSE.
+capitalizations and greater liquidity. These companies 
+About Nifty 50 Index
+The Nifty 50 index has a base date of November 03, capitalization. The index is reviewed on a semi-annual 
+1995. It represents the country’s top 50 blue-chip basis in March and September using 6-month average 
+companies across various sectors. The weight of each data as of January 31, and July 31 respectively. The 
+stock in the index is based on its free-float market index construction steps are highlighted below:
+Exhibit 1:  Nifty 50 index methodology
+Stock 
+Weighing 
+Eligibility 
+Universe
+Selection
+and Review
+criteria
+Stocks available for Top 50 stocks based Weights are based 
+Nifty 100
+trading on NSE's F&O on 6 month Avg. on free-float market 
+segmentFree-float market capitalization
+capitalization
+Trading frequency of Reviewed on a 
+100%semi-annual basis in 
+March & September
+Avg. impact cost of 0.50 
+or less for 90% of the 
+observation for a 
+portfolio of Rs. 10 Cr
+01
+
+  Nifty50
+Coverage of the Nifty 50 index:
+The Nifty 50, comprising 50 blue chip companies, 28% of the total liquidity of all the traded equity stocks 
+collectively represent approximately 47% of the total on the NSE, based on a 6-month average as of March 
+full market capitalization, around 57% of the total 28, 2024.
+free-float market capitalization, and approximately 
+Exhibit 2:  Coverage of the Nifty 50 viz-a-viz all listed and permitted to trade 
+equity stocks on NSE
+47.36%
+Avg. Full 
+Market Cap
+57.35%
+28.35%
+Avg. Free-Float 
+Avg. Daily 
+Market Cap 
+Turnover 
+Coverage of Nifty 50 
+within the NSE Listed 
+Universe
+*Based on 6-month average March 28, 2024 ended data
+02
+
+  Nifty50
+Evolution of Nifty 50
+Since its inception in November 1995, the Nifty 50 In terms of turnover coverage, the Nifty 50 index has 
+index has witnessed remarkable growth in its market also experienced notable changes over the years. 
+capitalization coverage, expanding from 33.7% to Initially standing at 62.2% in November 1995, the 
+47.35% of the total traded equities at the National average turnover coverage has moderated to 28.34% 
+Stock Exchange (NSE) as of March 2024.as of March 2024.
+Exhibit 3:  Nifty 50 attributes across years
+Nifty 50 Attributes across years
+Attributes (%)2024^20192014200920051995
+57.90%33.70%
+59.00%59.15%
+Market Representation by Full MCAP (%) *47.35%58.55%
+42.20%62.20%
+52.39%
+56.01%43.89%
+Market Representation by Average Turnover (%) *28.34%
+31.70%
+38.47%38.50%
+41.34%34.19%
+Cumulative weight of top ﬁve stocks (%)39.00%
+2.00%1.80%
+1.78%2.26%
+3.00%2.00%
+Cumulative weight of bottom ﬁve stocks (%)
+* Weight for 2024^ is as of last trading day of March, weight for 2019, 2014, 2009, 2005 and 1995 are as of last trading day of December. Weights for 2024, 
+2019 and 2014 are calculated based on Free-Float market capitalization; Weights for 2009, 2005 and 1995 are based on Full market capitalization.  Market 
+representation of the Nifty 50 for 2024 is calculated based on 6-month March 2024 ended avg. full mcap and avg. turnover data, Market representation of the 
+Nifty 50 for 2019, 2014, 2009, 2005 & 1995 is calculated based on 6-month December ended avg. full mcap and avg. turnover data for the respective years.
+Sectoral composition of the Nifty 50 vis-à-vis overall listed market
+The Nifty 50 portfolio provides sectoral exposure universe of all traded equity stocks on the NSE as 
+pattern that is broadly similar to the one observed in the depicted in Exhibit 4. 
+Exhibit 4:  Sector exposure of Nifty 50 viz-a-viz all traded equity stocks at NSE
+All listed & permitted to
+Macro-Economic Sector 
+Nifty 50 (%)
+trade equity stocks on NSE (%)
+27.91
+Financial Services33.53
+15.79
+13.04
+Information Technology
+9.28
+Energy12.87
+9.17
+10.49
+Consumer Discretionary
+8.97
+8.15
+Fast Moving Consumer Goods
+7.91
+5.80
+Commodities
+7.04
+4.52
+Industrials
+5.84
+4.44
+Healthcare
+3.75
+3.25
+Telecommunication
+2.35
+2.90
+Utilities
+1.82
+1.00
+Services
+0.18
+-
+Diversiﬁed
+Source : NSE Indices. *All data as on March 28, 2024
+03
+
+  Nifty50
+Sectoral exposure of the Nifty 50 index
+Understanding the sectoral composition is essential for (12.87%) are the highest weighted sectors of the Nifty 
+assessing the index’s diversiﬁcation and risk proﬁle. As 50 index. There are 11 companies in Financial Services 
+on March 28, 2024, the Nifty 50 index has exposure to sector with weights ranging from 0.67% to 11.07%. 
+13 sectors. Financial Services (33.53%), Information Construction Materials and Services are the lowest 
+Technology (13.04%) and Oil, Gas & Consumable Fuels weighted sectors in the index.
+Exhibit 5:  Sectoral exposure of the Nifty 50 Index 
+Weight of the stocks in the sector (%)
+Sr.No. of stocks
+Sector
+TotalMinimumMaximumAverage
+Noin the sector
+weightweight weight weight
+3.05
+11.07
+0.67
+Financial Services133.5311
+2.17
+5.44
+0.46
+Information Technology213.046
+3.22
+10.22
+0.58
+Oil, Gas & Consumable Fuels312.874
+1.63
+3.86
+0.59
+Fast Moving Consumer Goods48.155
+1.26
+1.87
+0.56
+7.586
+Automobile and Auto Components5
+4.52
+4.52
+4.52
+Construction64.521
+0.89
+1.78
+0.45
+4.445
+Healthcare7
+0.95
+1.31
+0.80
+3.794
+Metals & Mining8
+3.25
+3.25
+3.25
+3.251
+Telecommunication9
+1.46
+1.61
+1.30
+2.922
+Consumer Durables10
+1.45
+1.62
+1.28
+2.902
+Power11
+1.00
+1.14
+0.86
+2.002
+Construction Materials12
+1.00
+1.00
+1.00
+1.001
+Services13
+1.99
+11.07
+0.45
+100.0050
+Total
+Source: NSE Indices; Data as on March 28, 2024
+04
+
+  Nifty50
+Sector composition of Nifty 50 across years
+Since inception, the weights of sectors in the Nifty 50 sector have grown from 20% at inception to 33.53% 
+index have changed over time due to evolving market now, while weights of Fast-Moving Consumer goods and 
+dynamics.  For example, the IT sector was not Metals & Mining sectors have declined from 19.0% to 
+represented at the time of inception, but as of March 28, 8.15% and 10.9% to 3.79% respectively over the same 
+2024, it represents 13.04% of weight in the index. time-period.
+Similarly, weights of stocks from the ﬁnancial services 
+Exhibit 6:  Sectoral composition of Nifty 50 across years
+2024*20192014200920051995
+Sector
+20.00
+12.80
+22.65
+31.74
+41.98
+Financial Services
+33.53
+-
+20.00
+12.57
+15.72
+12.77
+Information Technology13.04
+9.80
+25.00
+17.89
+9.25
+12.51
+Oil, Gas & Consumable Fuels12.87
+19.00
+8.00
+6.10
+10.48
+11.24
+Fast Moving Consumer Goods8.15
+12.20
+6.80
+5.24
+9.29
+5.72
+Automobile and Auto Components7.58
+4.50
+1.80
+8.24
+4.58
+3.20
+4.52
+Construction
+2.70
+4.20
+2.37
+6.05
+2.11
+4.44
+Healthcare
+10.90
+5.50
+8.81
+4.03
+3.25
+3.79
+Metals & Mining
+-
+6.30
+4.05
+1.74
+2.15
+3.25
+Telecommunication
+-
+-
+-
+-
+-
+2.92
+Consumer Durables
+2.00
+1.50
+4.69
+2.68
+1.95
+2.90
+Power
+5.50
+2.50
+3.36
+2.84
+1.49
+2.00
+Construction Materials
+1.10
+1.10
+-
+-
+0.56
+1.00
+Services
+7.70
+0.80
+-
+-
+0.64
+-
+Chemicals
+-
+0.50
+-
+0.74
+0.44
+-
+Media, Entertainment & Publication
+0.60
+3.10
+4.04
+0.86
+-
+-
+Capital Goods
+2.20
+-
+-
+-
+-
+-
+Textiles
+1.90
+-
+-
+-
+-
+-
+Consumer Services
+Weights of the sectors are as on December 31 for the respective year. Weights for 2024, 2019 and 2014 are calculated based on Free-Float market 
+capitalization; Weights for 2005 and 1995 are based on Full market capitalization. *Weight of sector for 2024 are as of March 28, 2024 based on Free-Float 
+market capitalization.
+05
+
+  Nifty50
+Twelve companies present in Nifty 50 since inception
+Exhibit 7:  Companies present in Nifty 50 since inception
+Tata
+HDFC 
+Steel Ltd.
+*
+Ltd.
+ICICI 
+State Bank 
+Bank Ltd.
+of India
+Hindalco 
+Hindustan
+HDFC
+Industries Ltd.
+Unilever Ltd.
+Bank Ltd.
+Reliance
+Bajaj
+Industries Ltd.
+Auto Ltd.
+Larsen & 
+ITC
+Tata 
+Toubro Ltd.
+Ltd.
+Motors Ltd.
+Each of the 12 companies in the above table have been in the index from inception till March 28, 2024. 
+*HDFC Ltd. was part of the Nifty 50 index until its merger with HDFC Bank Ltd. in July 2023.
+Nifty 50 Index Performance
+Exhibit 8:  Performance of Nifty 50 since inception
+26,000.00
+Nifty 50 Performance -
+24,000.00
+Price Return Index Values (Nov'95 to May'24)
+22,000.00
+20,000.00
+18,000.00
+16,000.00
+14,000.00
+12,000.00
+10,000.00
+8,000.00
+6,000.00
+Pandemic Crisis
+Dot Com Crisis
+4,000.00
+Sub-Prime Crisis
+2,000.00
+0.00
+567890123456789012345678901234
+999990000000000111111111122222
+999990000000000000000000000000
+111112222222222222222222222222
+06
+
+  Nifty50
+Exhibit 9:  Annualized return and volatility proﬁle of Nifty 50 TR index
+Annualised Return and Annualised Volatility Proﬁle of Nifty 50 TR index (As of March 31, 2024)
+Period
+ReturnsVolatilityReturn to Risk
+0.63
+Since Inception (June 30, 1999)14.10%
+22.25%
+0.87
+15 years
+15.63%
+18.05%
+0.86
+10 years14.16%
+16.48%
+0.87
+7 years14.93%
+17.21%
+0.80
+15.28%
+5 years
+19.07%
+1.19
+3 years16.31%
+13.71%
+3.08
+30.08%
+1 year
+9.77%
+Returns are calculated based on TR index values. Returns greater than one year are annualized, the returns up to one year are absolute returns; The TR values 
+of the Nifty 50 index are available from June 30, 1999.
+Since June 30, 1999, the Nifty 50 Total Return (TR) been 18.05% over the last 15 years, 19.07% over the 
+index has delivered annualized returns of 14.10% with last 5 years and 9.77% over the last 1 year. Over the last 
+annualized volatility of 22.25%. TR index assumes 3 years, the Nifty 50 index had a return to risk ratio of 
+dividends are reinvested in the index and hence 1.19.
+represents both Price Return (PR) and Dividend return. 
+The Nifty 50 TR index has delivered a 15.63% CAGR, While the volatility of the index returns has varied, 
+15.28% CAGR and 30.08% CAGR over the last 15 years, overall, the index has maintained a reasonable 
+5 years and 1 year respectively. In September of 2023, risk-return proﬁle.  
+the Nifty 50 crossed the 20,000 mark. Volatility has 
+07
+
+  Nifty50
+Calendar Year Returns for Nifty 50 TR index
+The Nifty 50 TR index showed a mix of positive and years 2013, 2015, 2016, 2018 and 2022 had relatively 
+negative returns over the last 25 years. It experienced lower returns, while 2014, 2017, 2019, 2020, 2021, 
+signiﬁcant volatility during the global ﬁnancial crisis in and 2023 witnessed stronger performance.
+2008 but rebounded strongly in subsequent years. The 
+Exhibit 10:  Calendar year performance of Nifty 50 TR index
+100.00%
+77.59%
+76.61%
+80.00%
+41.90%
+56.80%
+60.00%
+13.48%
+38.63%
+40.00%
+32.90%
+30.27%
+29.43%
+25.59%
+24.40%
+21.30%
+19.22%
+16.14%
+13.04%
+20.00%
+8.07%
+5.34%
+4.64%
+5.69%
+4.39%
+Return (%)
+0.00%
+-3.01%
+-20.00%
+-13.36%
+-23.81%
+-40.00%
+-15.05%
+-51.27%
+-60.00%
+20002001200220032004201820192020202120222023
+2011201220132014201520162017
+200520062007200820092010
+1999
+Calendar years
+Return based on TR index values. Return for 1999 is calculated from June 30, 1999, to December 31, 1999. Return for 2024* is calculated from December 29, 
+2023 to March 28, 2024
+The Nifty 50 TR index has delivered positive returns in 5 calendar years where the Nifty 50 TR index had 
+20 out of 25 calendar years. Returns were between 0% negative returns, returns were between 0% to -20% in 3 
+to 10% in 5 calendar years, 10% to 30% in 8 calendar calendar years and less than -20% in 2 calendar years.
+years and exceeded 30% in 7 calendar years. Out of the 
+Exhibit 11:  Calendar year returns range of Nifty 50 TR index
+ C ount of Years
+6
+5
+2002
+4
+20132004
+1999
+2003
+3
+2016
+2010
+20122006
+2005
+2
+20082000
+2018
+2019
+20212007
+2014
+1
+201120112015
+2022
+20202023
+2009
+2017
+0
+Less than -20%-20% to -10%-10% to 0%0% to 10%10% to 20%20% to 30%30% to 40%40% and above
+08
+
+  Nifty50
+Rolling Returns for Nifty 50 TR index
+Exhibit 12:  Daily rolling return analysis of the Nifty 50 TR index
+Analysis based on daily rolling returns
+Return Analysis
+Percentage of total instances
+Negative
+Investment
+Positive returnsReturn Attributes
+returns
+Horizon
+MinMaxMedian
+>=0%5-10%Average
+0-5%
+>15%
+10-15%
+<0% CAGR
+CAGRCAGRCAGR
+CAGRCAGRCAGR
+CAGR
+CAGR
+CAGR
+14.20%
+41.5%
+22.39%
+0.0%16.9%
+10 years
+41.6%14.24%
+100.0%
+5.13%
+0.0%
+14.93%
+45.6%
+30.48%
+17.3%
+0.0%
+7 years
+37.0%13.57%
+100.0%
+4.90%
+0.0%
+15.33%
+36.3%
+47.21%
+21.5%
+0.1%
+5 years
+36.4%13.34%
+99.9%
+-1.03%
+5.8%
+15.33%
+23.8%
+62.12%
+6.8%18.1%
+3 years
+42.3%13.35%
+93.2%
+-15.22%
+9.0%
+15.09%
+13.2%
+64.76%
+13.1%
+18.0%
+2 years
+45.8%13.48%
+82.0%
+-20.99%
+9.9%
+16.29%
+11.9%
+107.92%
+10.2%
+23.9%
+1 year
+44.9%13.01%
+76.1%
+-55.38%
+9.0%
+Source: NSE Indices. Analysis period is from June 30, 1999 to March 28, 2024; Data based on TR index values.
+The Nifty 50 TR index has delivered positive returns rolling return analysis, and a return of more than 15% 
+~93% of the time over horizons of 3 years, based on p.a. for 36.4% of the time.
+daily rolling return analysis. As the investment horizon Overall, the analysis shows that for longer investment 
+increased to 7 years and longer, the frequency of horizons, such as 10 years and 7 years, the Nifty 50 
+positive returns approached 100%. For the 10-year index has consistently delivered positive returns. The 
+horizon, the maximum return was 22.39% and the median and average CAGRs are relatively stable across 
+minimum return was 5.13%, the average return being different horizons, indicating a consistent performance 
+14.20%. For the 7-year investment horizon, the Nifty by the index. However, for shorter-term horizons, such 
+50 TR index has delivered an average return of 14.93% as 1 year and 2 years, the index has shown more 
+based on daily rolling return analysis, with a return of variability in returns, with ~18% to ~24% instances 
+more than 15% p.a. for 37% of the time. Likewise, for experiencing negative returns.
+0.3471 cm 
+the 5-year investment horizon, the Nifty 50 TR index 
+delivered an average return of 15.33% based on daily 
+09
+
+  Nifty50
+FY 2024 the year in review:
+a) Automobile and Auto Components, Financial Services and Oil, Gas & Consumable
+     fuels were the top 3 contributors to the returns generated by Nifty 50 in FY 2024
+The table below, summarizes the contribution of each each sector to the overall index return  The top 
+sector to the total return of the index for the last performing sectors – Automobile and Auto 
+ﬁnancial year (2023-24). As can be seen, the Components and Oil, Gas and Consumable Fuels have 
+Automobile and Auto Components, Financial Services given positive returns in each of the 4 quarters whereas 
+and Oil, Gas and Consumable Fuels sectors have been the Financial Services Sector exhibited volatility with 
+among the best performers while the Chemicals Sector alternating positive and negative returns in each 
+contributed negatively to the index return.quarter. The Chemicals sector has consistently given 
+Diving deeper into these annual contributions, the table negative returns in each quarter, thereby taking away 
+below also showcases the quarterly contribution of from the annual return.
+Exhibit 13:  Sectoral Contribution to the Index Return
+Annual
+Quarterly Contributions
+Contribution
+Sector
+Apr-JunJuly-SepOct-DecJan-Mar
+Mar'23 to Mar'24
+(Q1)(Q2)(Q3)(Q4)
+6.09%
+Oil, Gas & Consumable Fuels
+1.09%
+0.56%
+1.42%
+1.96%
+4.74%
+Financial Services
+4.06%
+-0.97%
+2.81%
+-1.32%
+4.39%
+Automobile and Auto Components
+1.36%
+0.40%
+0.94%
+1.25%
+2.53%
+Construction
+0.49%
+0.81%
+0.71%
+0.30%
+2.53%
+Information Technology
+0.05%
+0.92%
+1.41%
+-0.08%
+1.94%
+Healthcare
+0.49%
+0.35%
+0.28%
+0.61%
+1.71%
+Power
+0.22%
+0.40%
+0.59%
+0.35%
+1.62%
+Metals & Mining
+0.50%
+0.29%
+0.58%
+0.10%
+1.55%
+Telecommunication
+0.42%
+0.15%
+0.31%
+0.52%
+1.36%
+Fast Moving Consumer Goods
+1.50%
+-0.36%
+0.89%
+-0.69%
+0.82%
+Consumer Durables
+0.66%
+-0.05%
+0.38%
+-0.21%
+0.75%
+Services
+0.11%
+0.09%
+0.18%
+0.25%
+0.64%
+Construction Materials
+0.15%
+0.09%
+0.38%
+-0.03%
+-0.17%
+Chemicals
+-0.02%
+-0.04%
+-0.02%
+-0.07%
+Source: NSE FixedIn attribution tool
+10
+
+  Nifty50
+b) Derivatives on Nifty 50 index:
+Nifty 50 is one of the actively traded instruments on the 13,433 Cr in Q1 of FY 2024 to Rs. 20,861 Cr in Q4 of FY 
+NSE’s derivatives segment. The average daily turnover 2024.
+of the Nifty 50 index futures has increased from Rs. 
+Exhibit 14:  Average Daily Turnover of the Nifty 50 Index futures traded on NSE’s 
+derivative segment in FY 2024
+Nifty 50 Index Futures
+25,000
+20,861
+20,000
+14,705
+13,908
+13,433
+15,000
+10,000
+5,000
+Average daily turnover in Rs. Cr
+0
+FY 2024 - Q1FY 2024 - Q2FY 2024 - Q3FY 2024 - Q4
+Source: NSE 
+The average daily premium turnover of the Nifty 50 FY 2024 to Rs. 12,257 Cr in Q4 of FY 2024
+index options has increased from Rs. 8286 Cr in Q1 of 
+Exhibit 15:  Average Daily Premium Turnover of the Nifty 50 Index Option on 
+NSE’s derivative segment in FY 2024
+Nifty 50 Index Options
+14,000
+12,257
+12,000
+10,000
+8,448
+8,286
+8,000
+6,796
+6,000
+4,000
+2,000
+Average daily turnover in Rs. Cr
+0
+FY 2024 - Q1FY 2024 - Q2FY 2024 - Q3FY 2024 - Q4
+Source: NSE 
+11
+
+  Nifty50
+c) Passive funds on Nifty 50 Index
+Domestic Presence
+As on March 28, 2024, there are 274 passive funds in 3297 billion (Rs. 2775 billion AUM of the Nifty 50 ETFs 
+India with a total AUM of Rs. 6.67 trillion. Out of these and Rs. 522 billion AUM of Nifty 50 Index funds). The 
+274 passive funds, there are 152 ETFs and 122 index AUM of ETFs tracking the Nifty 50 index accounts for 49 
+funds tracking the equity indices with a total AUM of Rs. % of the total equity ETF AUM and the AUM of Index 
+5.63 trillion and Rs.1.03 trillion respectively. funds tracking the Nifty 50 accounts for 50% of the total 
+There are 37 passive funds (18 ETFs and 19 index equity index fund AUM as of March 28, 2024.
+funds) tracking the Nifty 50 index with a total AUM Rs. 
+Exhibit 16:  AUM of the ETFs and Index Funds on Nifty 50 index
+Sr.ETFs AUM in Rs.Index Fund AUM
+Mutual Fund
+NoBillionin Rs. Billion
+177069
+SBI Mutual Fund1
+502162
+UTI Mutual Fund2
+23715
+Nippon India Mutual Fund3
+14072
+ICICI Prudential Mutual Fund4
+32128
+HDFC Mutual Fund5
+23-
+Mirae Asset Mutual Fund6
+236
+Kotak Mahindra Mutual Fund7
+228
+Aditya Birla Sun Life Mutual Fund8
+83
+LIC Mutual Fund9
+64
+Axis Mutual Fund10
+67
+Tata Mutual Fund11
+35
+DSP Mutual Fund12
+1-
+Invesco Mutual Fund13
+1-
+Bajaj Finserv Mutual Fund14
+1-
+Quantum Mutual Fund15
+05
+Motilal Oswal Mutual Fund16
+012
+Bandhan Mutual Fund17
+017
+Navi Mutual Fund18
+-7
+Franklin Templeton Mutual Fund19
+-2
+HSBC Mutual Fund20
+-1
+Baroda BNP Paribas Mutual Fund21
+-1
+Edelweiss Mutual Fund22
+-0
+Taurus Mutual Fund23
+2775522
+Total
+Source: CMOTS. Data as of March 28, 2024.
+12
+
+  Nifty50
+Exhibit 17:  Trend in AUM of the ETFs and Index Funds linked to Nifty 50 index for 
+last 3 years
+Nifty 50 ETF AUMNifty 50 Index Fund AUM
+2775
+6003000
+2643
+2368
+2313
+5002500
+2176
+522
+2040
+1988
+471
+1793
+4002000
+1730
+1695
+1642
+393
+1388
+359
+1500
+300
+1257
+1203
+306
+998
+908
+284
+1000
+200
+255
+726
+220
+209
+173
+100500
+154
+127
+107
+94
+Nifty 50 ETF AUM (in Rs. Billions)
+79
+5371
+0
+0
+0000011111122222233333344
+222222222222222222222
+2222
+Nfty 50 Index Fund AUM (in Rs. Billions)
+-------------------------
+llll
+rrrrr
+vvvv
+yyyy
+nnnn
+pppp
+uuuu
+aaaaa
+oooo
+aaaa
+aaaa
+eeee
+JJJJ
+JJJJ
+MMMMM
+NNNN
+SSSS
+MMMM
+Axis Title
+Source: CMOTS; Data as of March 28, 2024
+International Presence – ETFs & Index Funds
+There are 9 international ETFs based on Nifty 50 with funds with total AUM of USD 855 Mn as of March 28, 
+total AUM of USD 2266 Mn and 6 international index 2024. 
+Exhibit 18:  AUM of the international ETFs and index funds on the Nifty 50 index
+Sr.ETF/Index
+Issuer NameAUM (USD Mn)
+NoFund
+ETF
+iShares (Blackrock)1869
+ETF
+Nomura Asset Management2395
+ETF
+233
+Mirae Asset Global Investments3
+ETF
+Samsung Asset Management Co Ltd4227
+ETF
+DWS Group (DWS)5195
+ETF
+Kiwoom Asset Management6154
+ETF
+93
+Fubon Asset Management7
+ETF
+Global X Management (AUS) Limited879
+ETF
+KSM Mutual Funds Ltd.922
+Index Fund
+Daiwa Asset Management Co. Ltd.10729
+Index Fund
+71
+Mitsubishi UFJ Asset Management11
+Index Fund
+Sumitomo Mitsui Trust Holdings1224
+Index Fund
+Norinchukin Zenkyoren Asset Management1320
+Index Fund
+au Asset Management Corporation1411
+Index Fund
+1
+T&D Asset Management Co. Ltd15
+ Source: ETFGI; Data as of March, 2024.
+13
+
+  Nifty50
+Signing off……
+The Nifty 50, comprising 50 large Indian companies, is India’s flag ship Index, these 50 companies 
+collectively represent approximately 47% of the total full market capitalization, around 57% of the 
+total free-float market capitalization, and approximately 28% of the total liquidity of all the traded 
+equity stocks at the NSE, based on a 6-month average data as of March 28, 2024.
+As of March 28, 2024, the Financial Services, Information Technology, and Oil, Gas and Consumable 
+Fuels sectors dominate the composition of the Nifty 50 index, with their weights collectively adding 
+up to 59.44%.
+From June 30, 1999, till March 28, 2024, the Nifty 50 index has delivered 14.10% CAGR with 
+annualized volatility of 22.25%.
+The Nifty 50 index has delivered positive returns in 20 out of 25 calendar years.
+On a daily rolling return basis, the Nifty 50 has delivered positive returns, 100% of the time over the 
+longer horizon periods of 7 years and 10 years. 
+Automobile and Auto Components, Financial Services and Oil, Gas and Consumable Fuels were 
+among the top contributors to the index return in the last ﬁnancial year while the Chemicals sector 
+contributed negatively.
+The impressive growth in AUM of the passive funds on the Nifty 50 reflects the increasing adoption 
+and recognition of the Nifty 50 as a preferred benchmark in the Indian equity market. As of March 28, 
+2024, there are 37 passive funds (18 ETFs and 19 Index Funds) tracking the Nifty 50 index with a 
+total AUM of Rs. 3297 billion.
+For more information on the Index methodology and factsheet, please visit us at www.nseindia.com
+14
+
+  Nifty50
+About NSE Indices Limited: 
+NSE Indices Limited (formerly known as India Index Services ﬁxed income indices based on Government of India securities, 
+& Products Ltd. - IISL), a subsidiary of NSE, provides a variety corporate bonds, money market instruments and hybrid 
+of indices and index related services for the capital markets. indices. Many investment products based on Nifty indices 
+The company focuses on the index as a core product. The have been developed within India and abroad. These include 
+company owns and manages a portfolio of indices under the index based derivatives traded on NSE and NSE International 
+Nifty brand of NSE, including the flagship index, the Nifty 50. Exchange IFSC Limited (NSE IX) and a number of index funds 
+Nifty equity indices comprise of broad-based benchmark and exchange traded funds. The flagship 'Nifty 50' index is 
+indices, sectoral indices, strategy indices, thematic indices widely tracked and traded as the benchmark for Indian Capital 
+and customised indices. NSE Indices Limited also maintains Markets.
+For more information, please visit: www.niftyindices.com
+Analytical Contact Details
+Vrushali Rane
+Aman Singhania, CFA, FRM
+Senior Manager – Index Products (NSE – Indices)
+Head- Products (Index & Data Analytics)
+vrane@nse.co.in
++91-22-26598248
+singhaniaa@nse.co.in
+Bhoomika Wadhwa
+Manav Shah
+Deputy Manager – Index Products (NSE – Indices)
+Assistant Manager – Index Products (NSE – Indices)
+bwadhwa@nse.co.in
+mkamalshah@nse.co.in
+Disclaimer: All information contained herewith is provided for reference purpose only. NSE Indices Limited (formerly known as 
+India Index Services & Products Limited-IISL) ensures accuracy and reliability of the above information to the best of its 
+endeavors. However, NSE makes no warranty or representation as to the accuracy, completeness or reliability of any of the 
+information contained herein and disclaim any and all liability whatsoever to any person for any damage or loss of any nature 
+arising from or as a result of reliance on any of the information provided herein. The information contained in this document is 
+not intended to provide any professional advice.
+Contact:
+Email: indices@nse.co.in
+Tel: +91 22 26598386
+Address: Exchange Plaza, Bandra Kurla Complex,
+Bandra (East), Mumbai– 400 051(India)
